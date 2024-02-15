@@ -9,15 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hi my name is Clark I'm 21 years old studying Information Technology and I'm third year College in
-          University of the Assumption, I live in Cacutud, Arayat, Pampanga.
-        </p>
-        <h2>My Expectation in this subject</h2>
-        <ul>
-          <li>Awesome</li>
-          <li>Stress</li>
-          <li>High Grades</li>
-        </ul>
+        
         <p>10 Things That Require Zero Talent</p>
     <ul>
     <li>1. Being On Time</li>
@@ -33,7 +25,7 @@ export default function Home() {
     </ul>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href=" our Next.js tutorial."></a>.)
         </p>
       </section>
     </Layout>
